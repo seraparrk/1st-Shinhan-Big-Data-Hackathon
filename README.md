@@ -25,7 +25,7 @@
 ## 결과 : 우수상
 <img width="500" height="698.41" src = "https://github.com/seraparrk/Shinhan-Big-Data-Hackathon/assets/113303445/29b943fb-85c0-4152-a7c0-cccdd8fb2776">
 
-### 결선 발표 ppt
+### 결선 발표 pdf
 <img width="1232" alt="신빅해1" src="https://github.com/seraparrk/Shinhan-Big-Data-Hackathon/assets/113303445/8d1b8855-b82a-4a6f-b3cb-c23fca616e4a">
 <img width="1232" alt="스크린샷 2023-11-06 오후 7 51 02" src="https://github.com/seraparrk/Shinhan-Big-Data-Hackathon/assets/113303445/0bbf75f7-f8e0-4d5e-baff-a4c845d81b15">
 <img width="1232" alt="스크린샷 2023-11-06 오후 7 51 10" src="https://github.com/seraparrk/Shinhan-Big-Data-Hackathon/assets/113303445/835478f4-b3c5-43ac-b3d0-793253647c19">
